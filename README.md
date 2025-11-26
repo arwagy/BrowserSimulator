@@ -3,8 +3,11 @@ A simple C++ browser simulator to visit sites ,navigate back and forward ,save b
 
 Features :
 ▬Visit a new(record both time and date when a page was visited).
+
 ▬Go Back and Forward.
+
 ▬Diaplay browsing history(with maximum limit).
+
 ▬Save history to a text file.
 
 Data Structures :
